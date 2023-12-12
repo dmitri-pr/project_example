@@ -1,3 +1,4 @@
 logs/*.log
 !logs/debug.log
 .idea/
+config.json
